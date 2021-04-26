@@ -1,6 +1,7 @@
 # DiM_CARD
 DIGIMON VITAL BRACELET DiM CARD Flash
 
+https://ruisan.blog.jp/archives/9756028.html
 
 <div  align="center">
 <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/d/dd5f25cc.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
