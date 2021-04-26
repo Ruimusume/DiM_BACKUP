@@ -31,7 +31,7 @@ CH341A如果没有跳线连接电脑的话，可以在设备管理器的端口�
 <br />
 可以查看CH341A背面会有标记「1-2 编程」代表旁边的1和2需要跳线触碰才能编程的意思<br />
 如果你购买的CH341A没有带跳线帽的话可以用铜线夹紧也有效<br />
-<div  align="center"><img  class="pict" hspace="5" alt="CH341A跳线" border="0" height="614" width="800" src="https://livedoor.blogimg.jp/ruimusume/imgs/2/2/2285cfda.jpg"></div>
+<div  align="center"><img  class="pict" hspace="5" alt="CH341A跳线" border="0" height="614" width="800" src="https://livedoor.blogimg.jp/ruimusume/imgs/0/1/01b45042.jpg"></div>
 <br />
 正常CH341A连接电脑，软件可以读取芯片型号会在设备管理器的外部接口显示USB-EPP I2C... CH341A<br />
 <div  align="center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/2/b/2b539a03.png" width="200" height="42" border="0" alt="USB-EPP I2C... CH341A" hspace="5" class="pict"></div>
