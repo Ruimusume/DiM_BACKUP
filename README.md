@@ -62,6 +62,37 @@ CH341A如果没有跳线连接电脑的话，可以在设备管理器的端口�
 <blockquote><div  align="center">数据购买支付方式<br />
 支付后请联系邮箱ruisan618@126.com附上支付截图和所需的文件通过邮件发送获取数据文件<br />
     <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/5/8/585cc192.jpg" hspace="5" class="pict"></div></blockquote>
+      <table  align="center">
+<tr>
+        <td  style="text-align: center"><a  href="https://github.com/Ruimusume/DiM_CARD/releases/download/2.1.0.13/VS.MEMORY.zip" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/a/da32a79e.png" width="150" title="VS MEMORY" alt="VS MEMORY"></a><br />（免费提供点击下载）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/c/f/cf539c58.png" width="150" title="IMPULSE CITY" alt="IMPULSE CITY"><br />（10元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/a/4/a4564c9e.png" width="150" title="ANCIENT WARRIORS" alt="ANCIENT WARRIORS"><br />（50元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/9/7/973b32d8.png" width="150" title="BLACK ROAR" alt="BLACK ROAR"><br />（50元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/7/8/785d70fb.png" width="150" title="SHADOW HOWL" alt="SHADOW HOWL"><br />（100元）</td>
+      </tr>
+      <tr>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/8/f/8f6ac507.png" width="150" alt="AGUMON" title="AGUMON"><br />（30元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b0199679.png" width="150" alt="GABOMON" title="GABOMON"><br />（30元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/0/1/01d0609d.png" width="150" alt="VOLCANIC BEAT" title="VOLCANIC BEAT"><br />（30元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/1/e1d41189.png" width="150" alt="BLIZZARD FANG" title="BLIZZARD FANG"><br />（30元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/f/2/f2f41560.png" width="150" alt="INFINITE TIDE" title="INFINITE TIDE"><br />（未出）</td>
+      </tr>
+      <tr>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/31b22e08.png" width="150" alt="TITAN OF DUST" title="TITAN OF DUST"><br />（未出）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d6bef73.png" width="150" alt="MAD BALCK ROAR" title="MAD BALCK ROAR"><br />（未出）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/a/eac24082.png" width="150" alt="TRUE SHADOW HOWL" title="TRUE SHADOW HOWL"><br />（未出）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/1/d16f3201.png" width="150" alt="GUILMON" title="GUILMON"><br />（未出）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/6/0/60ffe97f.png" width="150" alt="IMPMON" title="IMPMON"><br />（未出）</td>
+      </tr>
+      <tr>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/4/e4777d8a.png" width="150" alt="RENAMON" title="RENAMON"><br />（未出）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/c/4ca49ba6.png" width="150" alt="MONODRAMON" title="MONODRAMON"><br />（未出）</td>
+        <td  style="text-align: center">null</td>
+        <td  style="text-align: center">null</td>
+        <td  style="text-align: center">null</td>
+      </tr>
+    
+</table>
 <blockquote>
 <b>bin文件数据校验值</b><br />
 <div  align="center"><img  class="pict" hspace="5" alt="dim img" border="0" width="950" src="https://livedoor.blogimg.jp/ruimusume/imgs/1/1/112f9473.png"></div>
