@@ -58,7 +58,7 @@ CH341A如果没有跳线连接电脑的话，可以在设备管理器的端口�
 首先读取IC，菜单栏里选择脚本—区段=，选择你保存的脚本<br />
 然后点运行，最后点写入/编程 IC，等待进度条完成即可 </blockquote>
 
-<blockquote><div  align="center">支付方式<br />
+<blockquote><div  align="center">数据购买支付方式<br />
 支付后请联系邮箱ruisan618@126.com附上支付截图和所需的文件通过邮件发送获取数据文件<br />
     <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/5/8/585cc192.jpg" hspace="5" class="pict"></div></blockquote>
 <blockquote>
