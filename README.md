@@ -8,7 +8,7 @@ https://ruisan.blog.jp/archives/9756028.html
 <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/d/dd5f25cc.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
 </div>
 <blockquote> <b>CH341A编程器接线示意图方案</b><br />
-  电击图片可以查看大图<br />
+  点击图片可以查看大图<br />
   microDS读卡器是可以用工具从插入卡的地方放撬开的，外壳都是有卡扣扣住的可以在合回去不会松<br />
   由于DiM Card厚度比microDS厚可能需要用胶纸缠稳<br />
   接线方案①可以用买杜邦线进行对接，方案②一般买CH341A都会送板和针，同样也需要杜邦线对接<br />
