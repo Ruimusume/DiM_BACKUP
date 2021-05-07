@@ -87,8 +87,8 @@ CH341A如果没有跳线连接电脑的话，可以在设备管理器的端口�
       </tr>
       <tr>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/4/e4777d8a.png" width="150" alt="RENAMON" title="RENAMON"><br />（未出）</td>
-        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/c/4ca49ba6.png" width="150" alt="MONODRAMON" title="MONODRAMON"><br />（未出）</td>
-        <td  style="text-align: center">null</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/c/4ca49ba6.png" width="150" alt="MONODRAMON" title="MONODRAMON"><br />（未出）</td>        
+        <td  style="text-align: center"><img  title="MEDAROT × DIGITALMONSTER" alt="MEDAROT × DIGITALMONSTER" border="0" width="150" src="https://livedoor.blogimg.jp/ruimusume/imgs/8/6/869c8f89.png"><br />（未出）</td>
         <td  style="text-align: center">null</td>
         <td  style="text-align: center">null</td>
       </tr>
