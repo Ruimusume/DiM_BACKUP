@@ -51,9 +51,9 @@ CH341A如果没有跳线连接电脑的话，可以在设备管理器的端口�
 <div  align="center"><img  class="pict" hspace="5" alt="黑加布兽" border="0" height="456" width="766" src="https://livedoor.blogimg.jp/ruimusume/imgs/6/0/609d3d3b.jpg"><br />
 VS卡刷写黑加布兽接收成功</div>
 </blockquote>
-<blockquote><b>重置DiM卡</b><br />
+<blockquote><b>重置&解绑DiM卡</b><br />
 <blockquote> <b>重置DiM卡脚本（自行保存为.pas格式放入scripts文件夹）</b><br />
- {$ Restore_Dim_card_ID}<br />
+ {$ Re_Dim_card}<br />
   begin<br />
   LogPrint ('Start Restore DiM card ID.');<br />
   ReadToEditor ( 8, $10000, $FF, $FF, $FF, $FF, $FF, $FF, $FF, $FF);<br />
