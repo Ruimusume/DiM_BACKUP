@@ -47,6 +47,9 @@ CH341A如果没有跳线连接电脑的话，可以在设备管理器的端口�
 <blockquote> <b>DiM卡刷写其他bin数据</b><br />
 点击检查芯片型号，然后选择DiM_CARD（GPR25L3203F）<br />
 然后打开bin文件，再点写入/编程 IC，等待进度条完成即可<br />
+  <div  align="center"><img  class="pict" hspace="5" alt="刷写" border="0" height="488" width="766" src="https://livedoor.blogimg.jp/ruimusume/imgs/6/6/666cce1a.png"></div>
+<div  align="center"><img  class="pict" hspace="5" alt="黑加布兽" border="0" height="456" width="766" src="https://livedoor.blogimg.jp/ruimusume/imgs/6/0/609d3d3b.jpg"><br />
+VS卡刷写黑加布兽接收成功</div>
 </blockquote>
 <blockquote><b>重置DiM卡</b><br />
 <blockquote> <b>重置DiM卡脚本（自行保存为.pas格式放入scripts文件夹）</b><br />
