@@ -1,5 +1,5 @@
 # DiM_CARD
-DIGIMON VITAL BRACELET/デジモンバイタルブレス DiM CARD Flash
+デジモンバイタルブレス／DIGIMON VITAL BRACELET DiM CARD Flash
 
 [DIGIMON VITAL BRACELET]CH341A编程器 Dump&刷写&初始化 DiM Card 数据（含数码兽数据bin）
 https://ruisan.blog.jp/archives/9756028.html
