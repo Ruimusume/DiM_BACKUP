@@ -64,7 +64,26 @@ VS卡刷写黑加布兽接收成功</div>
 
 <blockquote><div  align="center">数据购买支付方式<br />
 支付后请联系邮箱ruisan618@126.com附上支付截图和所需的文件通过邮件发送获取数据文件<br />
-    <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/5/8/585cc192.jpg" hspace="5" class="pict"></div></blockquote>
+    <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/5/8/585cc192.jpg" hspace="5" class="pict">
+  <br />
+PALPAY支付方式<br />
+支付后请邮箱联系附上截图<br />
+<form  action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input  type="hidden" name="cmd" value="_s-xclick">
+<table>
+<tbody><tr><td><input  type="hidden" name="on0" value="选择DIM数据价格">选择DIM数据价格</td></tr><tr><td><select  name="os0">
+	<option  value="10元">10元 $ 10.00 USD</option>
+	<option  value="30元">30元 $ 30.00 USD</option>
+	<option  value="50元">50元 $ 50.00 USD</option>
+	<option  value="100元">100元 $ 100.00 USD</option>
+</select> </td></tr>
+</tbody></table>
+<input  type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+<input  type="image" src="https://www.paypalobjects.com/zh_XC/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal——最安全便捷的在线支付方式！">
+<img  border="0" src="https://www.paypalobjects.com/zh_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+  </blockquote>
 <blockquote>
       <table  align="center">
 <tr>
