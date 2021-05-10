@@ -63,6 +63,7 @@ VS卡刷写黑加布兽接收成功</div>
 首先读取IC，菜单栏里选择脚本—区段=，选择你保存的脚本<br />
 然后点运行，最后点写入/编程 IC，等待进度条完成即可 </blockquote>
 <blockquote>
+  <b>数据bin为收费向</b><br />
       <table  align="center">
 <tr>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/a/da32a79e.png" width="150" title="VS MEMORY" alt="VS MEMORY"><br />（免费提供）</td>
