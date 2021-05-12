@@ -3,6 +3,8 @@
 
 [DIGIMON VITAL BRACELET]CH341A编程器 Dump&刷写&初始化 DiM Card 数据（含数码兽数据bin）
 
+数码兽手环玩法攻略 https://gouhuo.qq.com/games/guide/940211
+
 数据购买支付方式 https://ruisan.blog.jp/archives/9756028.html
 
 <div  align="center">
