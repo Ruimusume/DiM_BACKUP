@@ -20,7 +20,8 @@
 </blockquote>
 <blockquote> <b>软件工具</b><br />
 <a  target="_blank" href="http://www.wch.cn/downloads/CH341SER_EXE.html">CH341SER.exe驱动</a><br />
-  <a  href="https://github.com/Ruimusume/DiM_CARD/releases/tag/2.1.0.13" class="name" target="_blank">AsProgrammer 2.1.0.13 DiM CARD ver.zip</a></blockquote>
+<a  target="_blank" href="https://github.com/Ruimusume/DiM_CARD/releases/download/2.1.0.13/CH341A.win10.zip">CH341SER—Win10驱动</a><br />
+<a  href="https://github.com/Ruimusume/DiM_CARD/releases/tag/2.1.0.13" class="name" target="_blank">AsProgrammer 2.1.0.13 DiM CARD ver.zip</a></blockquote>
 
 <blockquote> <b>驱动安装</b><br />
 不用CH341A连接电脑直接安装CH341SER.exe（如果怕装了别的版本的驱动可以先点卸载）<br />
