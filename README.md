@@ -3,7 +3,7 @@
 
 [DIGIMON VITAL BRACELET]CH341A编程器 Dump&刷写&初始化 DiM Card 数据（含数码兽数据bin）
 
-数码兽 生命手环作弊快速培育攻略 https://github.com/Ruimusume/DiM_CARD/wiki
+数码兽 生命手环作弊快速培养进化攻略 https://github.com/Ruimusume/DiM_CARD/wiki
 
 数据购买支付方式 https://ruisan.blog.jp/archives/9756028.html
 
