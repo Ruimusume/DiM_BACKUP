@@ -1,0 +1,685 @@
+#简体中文汉化
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: avrfuses.fus_str_msg
+msgid "AVR Fuses and Bit Lock "
+msgstr "AVR保险丝和位锁"
+
+#: msgstr.str_45page_powerof2
+msgid "Page size is power of 2!"
+msgstr "页面大小是2的倍数！"
+
+#: msgstr.str_45page_std
+msgid "Default page size is set"
+msgstr "已设置默认页面大小"
+
+#: msgstr.str_avr_init_error
+msgid "AVR initialisation failed"
+msgstr "AVR保险丝初始化失败"
+
+#: msgstr.str_block_en
+msgid "Possible protection is enabled. Press \"Unprotect\" and check datasheet"
+msgstr "可能启用了保护。按 \"去写保护\" 并检查数据表"
+
+#: msgstr.str_buff_empty
+msgid "No data in buffer"
+msgstr "缓冲区无数据"
+
+#: msgstr.str_changed
+msgid "Modified"
+msgstr "已修改"
+
+#: msgstr.str_changed_spi_speed
+msgid "Lower AVR SPI Speed"
+msgstr "降低 AVR SPI 速度"
+
+#: msgstr.str_check_settings
+msgid "Check settings"
+msgstr "请检查设置"
+
+#: msgstr.str_choose_avr
+msgid "Choose an AVR Component in list"
+msgstr "在列表中选择一个AVR组件"
+
+#: msgstr.str_choose_ic
+msgid "Choose a Component in list"
+msgstr "在列表中选择一个组件"
+
+#: msgstr.str_combo_warn
+msgid "IC will be erased and programmed. Continue?"
+msgstr "芯片内容将被全部擦除后重新写入/编程，是否继续？"
+
+#: msgstr.str_connection_error
+msgid "Connecting Error "
+msgstr "连接时出错"
+
+#: msgstr.str_curr_hw
+msgid "Current programmer: "
+msgstr "当前编程器: "
+
+#: msgstr.str_dlg_filechgd
+msgid "file modified"
+msgstr "文件已修改"
+
+#: msgstr.str_dlg_fileext
+msgid "File |*.bin;*.hex|File |*.bin|File |*.hex|Files |*.*"
+msgstr ""
+
+#: msgstr.str_dlg_savefile
+msgid "Save changes?"
+msgstr "保存更改?"
+
+#: msgstr.str_done
+msgid "Done"
+msgstr "完成"
+
+#: msgstr.str_erase_notice
+msgid "The process can take more than a minute on large flash memories!"
+msgstr "对于大容量闪存，此过程可能耗时一分钟以上！"
+
+#: msgstr.str_erasing_flash
+msgid "Erasing memory..."
+msgstr "正在擦除闪存..."
+
+#: msgstr.str_fail
+msgid "Unsuccess"
+msgstr "未成功"
+
+#: msgstr.str_goto_addr
+msgctxt "msgstr.str_goto_addr"
+msgid "Goto address"
+msgstr "跳转到地址"
+
+#: msgstr.str_chip_no_answer
+msgid "IC not responding"
+msgstr "芯片未响应"
+
+#: msgstr.str_id_unknown
+msgid "(Unknown ID)"
+msgstr "(未知的 ID)"
+
+#: msgstr.str_mini_eeprom_support
+msgid "This firmware do not support I2C and 93Cxx"
+msgstr "此固件不支持 I2C 和 93Cxx"
+
+#: msgstr.str_new_sreg
+msgid "New SREG: "
+msgstr "新 SREG: "
+
+#: msgstr.str_not_found_hex
+msgid "Value not found"
+msgstr "数值未找到"
+
+#: msgstr.str_no_eeprom_support
+msgid "This firmware do not support memory programming"
+msgstr "此固件不支持 EEPROM 编程"
+
+#: msgstr.str_no_hardw_support
+msgid "This hardware is not supported!"
+msgstr "不支持此硬件！"
+
+#: msgstr.str_old_sreg
+msgid "Old SREG: "
+msgstr "旧 SREG: "
+
+#: msgstr.str_reading_flash
+msgid "Reading memory..."
+msgstr "正在读取..."
+
+#: msgstr.str_script_no_section
+msgid "There is no section: "
+msgstr "没有区段： "
+
+#: msgstr.str_script_run_section
+msgid "Runs section: "
+msgstr "运行区段： "
+
+#: msgstr.str_script_sel_section
+msgid "Select section"
+msgstr "选择区段"
+
+#: msgstr.str_search_hex
+msgid "Search HEX value"
+msgstr "查找十六进制值"
+
+#: msgstr.str_sel_chip
+msgid "Selected CHIP: "
+msgstr "已选 CHIP"
+
+#: msgstr.str_set_speed_error
+msgid "Error setting SPI speed"
+msgstr "设置 SPI 速度时出错"
+
+#: msgstr.str_size
+msgid "Size: "
+msgstr " 大小： "
+
+#: msgstr.str_specify_hex
+msgid "Use HEX numbers"
+msgstr "使用十六进制数"
+
+#: msgstr.str_start_erase
+msgid "Erase IC?"
+msgstr "擦除芯片?"
+
+#: msgstr.str_start_write
+msgid "Start programming?"
+msgstr "开始写入/编程?"
+
+#: msgstr.str_time
+msgid "Execution time: "
+msgstr "执行时间： "
+
+#: msgstr.str_success
+msgid "Success"
+msgstr "成功"
+
+#: msgstr.str_usb_timeout
+msgid "USB_control_msg timeout!"
+msgstr "USB_control_msg 超时!"
+
+#: msgstr.str_user_cancel
+msgid "Canceled by user"
+msgstr "操作被用户取消"
+
+#: msgstr.str_using_script
+msgid "Script: "
+msgstr "脚本: "
+
+#: msgstr.str_verify
+msgid "Verify memory..."
+msgstr "正在校验..."
+
+#: msgstr.str_verify_error
+msgid "Verification error on address: "
+msgstr "在此地址处校验发生错误： "
+
+#: msgstr.str_writing_flash
+msgid "Programming memory..."
+msgstr "正在写入/编程..."
+
+#: msgstr.str_writing_flash_wchk
+msgid "Programming memory(verifying)..."
+msgstr "正在写入/编程及校验..."
+
+#: msgstr.str_wrong_bytes_read
+msgid "Number of bytes readed not equal IC size"
+msgstr "读取的字节数与芯片大小不符"
+
+#: msgstr.str_wrong_bytes_write
+msgid "Number of written bytes not equal IC size"
+msgstr "要写入的字节数与芯片大小不符"
+
+#: msgstr.str_wrong_file_size
+msgid "File size larger than IC size"
+msgstr "文件大小超过芯片容量"
+
+#: search.sfound
+msgid "Found: "
+msgstr "已找到："
+
+#: search.sreplaced
+msgid "Replaced: "
+msgstr "已替换："
+
+#: tavrfusesform.btcancel.caption
+msgctxt "tavrfusesform.btcancel.caption"
+msgid "Cancel"
+msgstr "取消"
+
+#: tavrfusesform.btfusecalc.caption
+msgid "Fus Calc"
+msgstr ""
+
+#: tavrfusesform.btloaddeffuses.caption
+msgid "Load Default"
+msgstr "载入默认"
+
+#: tavrfusesform.btreadfuses.caption
+msgid "Read"
+msgstr "读取"
+
+#: tavrfusesform.btwritefuses.caption
+msgid "Write"
+msgstr "写入"
+
+#: tavrfusesform.fuseextgroup.caption
+msgid "Extended Fuse Byte"
+msgstr "扩展保险丝字节"
+
+#: tavrfusesform.fusehighgroup.caption
+msgid "Fuse High Byte"
+msgstr "高熔丝字节"
+
+#: tavrfusesform.fuselockgroup.caption
+msgid "Lock Bit Byte"
+msgstr "锁定位字节"
+
+#: tavrfusesform.fuselockgroup.hint
+msgctxt "tavrfusesform.fuselockgroup.hint"
+msgid "Read Only"
+msgstr "只读"
+
+#: tavrfusesform.fuselowgroup.caption
+msgid "Fuse Low Byte"
+msgstr "低熔丝字节"
+
+#: tavrfusesform.lockencheckbox.caption
+msgid "Locked"
+msgstr "锁定"
+
+#: tfillbuffform.bt16bits.caption
+msgid "Value (16Bits):"
+msgstr "值 (16Bits)"
+
+#: tfillbuffform.bt8bits.caption
+msgid "Value (8Bits):"
+msgstr "值 (8Bits)"
+
+#: tfillbuffform.btcancel.caption
+msgid "Cancel"
+msgstr "取消"
+
+#: tfillbuffform.btfillbuff.caption
+msgid "OK"
+msgstr "确定"
+
+#: tfillbuffform.btincr.caption
+msgid "Incremental values (00..FF)"
+msgstr "增量值 (00..FF)"
+
+#: tfillbuffform.btrandom.caption
+msgid "Random values"
+msgstr "随机值"
+
+#: tfillbuffform.caption
+msgid "Fill Buffer"
+msgstr "填充缓冲区"
+
+#: tfillbuffform.groupbox1.caption
+msgid "HEX Values"
+msgstr "十六进制值"
+
+#: tfillbuffform.groupbox2.caption
+msgid "Limits"
+msgstr "范围"
+
+#: tfillbuffform.label2.caption
+msgid "Start Address:"
+msgstr "起始地址:"
+
+#: tfillbuffform.label3.caption
+msgid "End Address:"
+msgstr "至:"
+
+#: tmainform.appbutton.hint
+msgid "Access Protection Page (APP)"
+msgstr "进入保护页 (APP)"
+
+#: tmainform.autoblankcheck.caption
+msgid "Blank Check"
+msgstr "查空"
+
+#: tmainform.autocheck.caption
+msgid "Verify"
+msgstr "校验"
+
+#: tmainform.autoclear.caption
+msgid "Erase"
+msgstr "清空"
+
+#: tmainform.autowrite.caption
+msgctxt "tmainform.autowrite.caption"
+msgid "Write"
+msgstr "写入/编程"
+
+#: tmainform.avreepromtbutton.caption
+msgctxt "tmainform.avreepromtbutton.caption"
+msgid "EEPROM"
+msgstr ""
+
+#: tmainform.avrfusesbutton.caption
+msgctxt "tmainform.avrfusesbutton.caption"
+msgid "Fuses"
+msgstr "保险丝"
+
+#: tmainform.blankcheckmenuitem.caption
+msgid "BlankCheck"
+msgstr "查空"
+
+#: tmainform.buffermenuitem.caption
+msgid "Buffer"
+msgstr "缓冲区（DiM CARD ver. 2021.5.15 by露易娘）"
+
+#: tmainform.buttonblock.hint
+msgid "Unprotect"
+msgstr "去写保护"
+
+#: tmainform.buttoncancel.hint
+msgid "Cancel"
+msgstr "取消操作"
+
+#: tmainform.buttonerase.hint
+msgid "Erase IC"
+msgstr "擦除 IC"
+
+#: tmainform.buttonopenfile.hint
+msgid "Open File"
+msgstr "打开文件"
+
+#: tmainform.buttonread.hint
+msgctxt "tmainform.buttonread.hint"
+msgid "Read IC"
+msgstr "读取 IC"
+
+#: tmainform.buttonreadid.hint
+msgid "Detect IC"
+msgstr "检测芯片型号"
+
+#: tmainform.buttonsavefile.hint
+msgctxt "tmainform.buttonsavefile.hint"
+msgid "Save File"
+msgstr "保存"
+
+#: tmainform.buttonverify.hint
+msgid "Verify IC"
+msgstr "校验 IC"
+
+#: tmainform.buttonwrite.hint
+msgctxt "tmainform.buttonwrite.hint"
+msgid "Write IC"
+msgstr "写入/编程 IC"
+
+#: tmainform.checkbox_i2c_a2.hint
+msgctxt "tmainform.checkbox_i2c_a2.hint"
+msgid "Set device address"
+msgstr "设置设备地址"
+
+#: tmainform.checkbox_i2c_byteread.caption
+msgid "R/W Byte by Byte"
+msgstr "逐字节读取/写入"
+
+#: tmainform.checkbox_i2c_byteread.hint
+msgid "Read & Write, Byte by Byte"
+msgstr "正在逐字节读取/写入"
+
+#: tmainform.clearlogmenuitem.caption
+msgid "Clear"
+msgstr "清空"
+
+#: tmainform.comboaddrtype.hint
+msgid "Type of addressing"
+msgstr "寻址类型"
+
+#: tmainform.comboboxavrspeed.hint
+msgid "AVR SPI frequency"
+msgstr ""
+
+#: tmainform.combochipsize.hint
+msgid "IC size in bytes"
+msgstr "芯片容量（字节）"
+
+#: tmainform.combomwbitlen.hint
+msgid "Address Lenght in bits"
+msgstr "地址长度（以字节为单位）"
+
+#: tmainform.combopagesize.hint
+msgid "Write Page size"
+msgstr "分页大小"
+
+#: tmainform.copylogmenuitem.caption
+msgctxt "tmainform.copylogmenuitem.caption"
+msgid "Copy"
+msgstr "复制"
+
+#: tmainform.i2cavancedbutton.caption
+msgid "i2cAvanced"
+msgstr "I2C 高级选项"
+
+#: tmainform.labelpage.caption
+msgid "Page"
+msgstr "分页大小"
+
+#: tmainform.labelsize.caption
+msgid "Size"
+msgstr "芯片容量"
+
+#: tmainform.labeltypead.caption
+msgid "Address type"
+msgstr "地址类型"
+
+#: tmainform.i2cadvancedbutton.hint
+msgid "I2C advanced settings access"
+msgstr "进入 I2C 高级设置"
+
+#: tmainform.labeladlength.caption
+msgid "Address lenght"
+msgstr "地址长度"
+
+#: tmainform.labelspicmd.caption
+msgid "SPI Family"
+msgstr "SPI 类型"
+
+#: tmainform.label_i2c_devaddr.caption
+msgid "Device address"
+msgstr "设备地址"
+
+#: tmainform.menuarduinospiclock.caption
+msgid "Clock"
+msgstr "时钟频率"
+
+#: tmainform.menuavrispspiclock.caption
+msgid "Clock"
+msgstr "时钟频率"
+
+#: tmainform.menuchip.caption
+msgid "IC"
+msgstr "芯片型号设置"
+
+#: tmainform.menuclearbuff.caption
+msgid "Clear the Buffer"
+msgstr "清空缓冲区(FF)"
+
+#: tmainform.menucopytoclip.caption
+msgctxt "tmainform.menucopytoclip.caption"
+msgid "Copy"
+msgstr "复制"
+
+#: tmainform.menufile.caption
+msgid "File"
+msgstr "文件"
+
+#: tmainform.menufileopen.caption
+msgid "Open"
+msgstr "打开"
+
+#: tmainform.menufilesave.caption
+msgid "Save"
+msgstr "保存"
+
+#: tmainform.menuexit.caption
+msgid "Exit"
+msgstr "退出"
+
+#: tmainform.menufillbuffer.caption
+msgid "Fill the Buffer"
+msgstr "填充缓冲区"
+
+#: tmainform.menufindchip.caption
+msgctxt "tmainform.menufindchip.caption"
+msgid "Search"
+msgstr "查找"
+
+#: tmainform.menufindreplace.caption
+msgid "Search/Replace"
+msgstr "查找/替换"
+
+#: tmainform.menugotooffset.caption
+msgctxt "tmainform.menugotooffset.caption"
+msgid "Goto address"
+msgstr "跳转到地址"
+
+#: tmainform.menuignorebusybit.caption
+msgid "Dont verify Busy bit"
+msgstr "不校验忙位"
+
+#: tmainform.menuitembenchmark.caption
+msgid "Benchmark"
+msgstr "测速"
+
+#: tmainform.menuitemeditsreg.caption
+msgid "Edit SREG"
+msgstr "修改 SREG"
+
+#: tmainform.menuitemhardware.caption
+msgid "Hardware"
+msgstr "切换编程器"
+
+#: tmainform.menuitemreadsreg.caption
+msgid "Read SREG"
+msgstr "读取 SREG"
+
+#: tmainform.menuloaddev.caption
+msgid "Load last device when starts"
+msgstr "启动时使用上次的设备"
+
+#: tmainform.menumicrowire.caption
+msgid "Microwire (soft)"
+msgstr ""
+
+#: tmainform.menumwclock.caption
+msgctxt "tmainform.menumwclock.caption"
+msgid "Clock"
+msgstr "时钟频率"
+
+#: tmainform.menuoptions.caption
+msgid "Options"
+msgstr "选项"
+
+#: tmainform.menupastefromclip.caption
+msgid "Paste"
+msgstr "粘贴"
+
+#: tmainform.menuskipff.caption
+msgid "Skip FF"
+msgstr "跳过 FF"
+
+#: tmainform.menuspiclock.caption
+msgctxt "tmainform.menuspiclock.caption"
+msgid "Clock"
+msgstr "时钟频率"
+
+#: tmainform.mwswapbutton.caption
+msgid "Swap <-->"
+msgstr "交换 <-->"
+
+#: tmainform.mwswapbutton.hint
+msgid "Swap High and Low Bytes"
+msgstr "交换高低位字节"
+
+#: tmainform.scriptsmenuitem.caption
+msgid "Скрипты"
+msgstr "脚本"
+
+#: tmainform.swapbytes.caption
+msgid "Swap High and Low Bytes"
+msgstr "交换高低位字节"
+
+#: tmainform.unprotbutton.caption
+msgid "UnProt"
+msgstr "去写保护"
+
+#: tmainform.unprotbutton.hint
+msgid "Removes protections in APP"
+msgstr "移除APP中的保护"
+
+#: tsearchform.caption
+msgctxt "tsearchform.caption"
+msgid "Search"
+msgstr "查找"
+
+#: tsearchform.casesensecheckbox.caption
+msgid "case sensitive"
+msgstr "区分大小写"
+
+#: tsearchform.findbutton.caption
+msgid "Search"
+msgstr "查找"
+
+#: tsearchform.hexcheckbox.caption
+msgid "Search HEX"
+msgstr "查找十六进制值"
+
+#: tsearchform.rcancelbutton.caption
+msgctxt "tsearchform.rcancelbutton.caption"
+msgid "Cancel"
+msgstr "取消"
+
+#: tsearchform.replaceallbutton.caption
+msgid "Repl. All"
+msgstr "全部替换"
+
+#: tsearchform.replacebutton.caption
+msgctxt "tsearchform.replacebutton.caption"
+msgid "Replace"
+msgstr "替换"
+
+#: tsearchform.replacecheckbox.caption
+msgctxt "tsearchform.replacecheckbox.caption"
+msgid "Replace:"
+msgstr "替换:"
+
+#: tsearchform.searchlabel.caption
+msgid "Search:"
+msgstr "查找:"
+
+#: tsregeditform.buttonreadsreg.caption
+msgctxt "tsregeditform.buttonreadsreg.caption"
+msgid "Read"
+msgstr "读取"
+
+#: tsregeditform.buttonwritesreg.caption
+msgctxt "tsregeditform.buttonwritesreg.caption"
+msgid "Write"
+msgstr "写入/编程"
+
+#: tchipsearchform.caption
+msgid "Search IC"
+msgstr "查找 IC"
+
+#: tchipsearchform.label1.caption
+msgid "Content:"
+msgstr "请输入FLASH型号（例如W25Q128）："
+
+#: tchipsearchform.ChipSearchSelectButton.caption
+msgid "Select IC"
+msgstr "选择 IC"
+
+#: msgstr.str_dlg_filechgd
+msgid "File modified"
+msgstr "文件已编辑"
+
+#: tscripteditform.menuitemfile.caption
+msgid "File"
+msgstr "文件"
+
+#: tscripteditform.menuitemopen.caption
+msgid "Open"
+msgstr "打开"
+
+#: tscripteditform.menuitemrun.caption
+msgid "Execute"
+msgstr "运行"
+
+#: tscripteditform.menuitemsave.caption
+msgid "Save"
+msgstr "保存"
+
+#: tscripteditform.menuitemsaveas.caption
+msgid "Save as..."
+msgstr "另存为..."
+
+#: tscripteditform.menuitemsection.caption
+msgid "Section ="
+msgstr "区段 ="
