@@ -16,7 +16,7 @@
   由于DiM Card厚度比microDS厚可能需要用胶纸缠稳<br />
   接线方案①可以用买杜邦线进行对接，方案②一般买CH341A都会送板和针，同样也需要杜邦线对接<br />
   使用SOP烧录夹可以免用microDS读卡器，接线麻烦的情况下建议买SOP16能用杜邦线的那种就比较傻瓜化<br />
-  <div  align="center"><a  href="https://livedoor.blogimg.jp/ruimusume/imgs/7/0/70d47266.jpg" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/7/0/70d47266.jpg" width="900" alt="CH341A" hspace="5" class="pict"></a></div>
+  <div  align="center"><a  href="https://livedoor.blogimg.jp/ruimusume/imgs/e/7/e785b87a.jpg" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/7/e785b87a.jpg" width="900" alt="CH341A" hspace="5" class="pict"></a></div>
 </blockquote>
 <blockquote> <b>软件工具</b><br />
 <a  target="_blank" href="http://www.wch.cn/downloads/CH341SER_EXE.html">CH341SER.exe驱动</a><br />
