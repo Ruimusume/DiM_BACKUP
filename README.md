@@ -5,7 +5,7 @@
 
 数码兽 生命手环作弊快速培养进化攻略 https://github.com/Ruimusume/DiM_CARD/wiki
 
-数据购买支付方式 https://ruisan.blog.jp/archives/9756028.html
+bin数据购买支付方式 https://ruisan.blog.jp/archives/9756028.html
 
 <div  align="center">
 <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/d/dd5f25cc.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
