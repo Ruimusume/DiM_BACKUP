@@ -15,7 +15,6 @@ bin数据购买支付方式 https://ruisan.blog.jp/archives/9756028.html
   microDS读卡器是可以用工具从插入卡的地方放撬开的，外壳都是有卡扣扣住的可以在合回去不会松<br />
   由于DiM Card厚度比microDS厚可能需要用胶纸缠稳<br />
   接线方案①可以用买杜邦线进行对接，方案②一般买CH341A都会送板和针，同样也需要杜邦线对接<br />
-  使用SOP烧录夹可以免用microDS读卡器，接线麻烦的情况下建议买SOP16能用杜邦线的那种就比较傻瓜化<br />
   <div  align="center"><a  href="https://livedoor.blogimg.jp/ruimusume/imgs/e/7/e785b87a.jpg" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/7/e785b87a.jpg" width="900" alt="CH341A" hspace="5" class="pict"></a></div>
 </blockquote>
 <blockquote> <b>软件工具</b><br />
