@@ -79,10 +79,10 @@ VS卡刷写黑加布兽接收成功</div>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b0199679.png" width="150" alt="GABOMON" title="GABOMON"><br />（30元）</td>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/0/1/01d0609d.png" width="150" alt="VOLCANIC BEAT" title="VOLCANIC BEAT"><br />（30元）</td>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/1/e1d41189.png" width="150" alt="BLIZZARD FANG" title="BLIZZARD FANG"><br />（30元）</td>
-        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/f/2/f2f41560.png" width="150" alt="INFINITE TIDE" title="INFINITE TIDE"><br />（未出）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/f/2/f2f41560.png" width="150" alt="INFINITE TIDE" title="INFINITE TIDE"><br />（Coming soon）</td>
       </tr>
       <tr>
-        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/31b22e08.png" width="150" alt="TITAN OF DUST" title="TITAN OF DUST"><br />（未出）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/31b22e08.png" width="150" alt="TITAN OF DUST" title="TITAN OF DUST"><br />（Coming soon）</td>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d6bef73.png" width="150" alt="MAD BALCK ROAR" title="MAD BALCK ROAR"><br />（未出）</td>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/a/eac24082.png" width="150" alt="TRUE SHADOW HOWL" title="TRUE SHADOW HOWL"><br />（未出）</td>
 <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/1/d16f3201.png" width="150" alt="GUILMON" title="GUILMON"><br />（未出）</td>
