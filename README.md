@@ -99,7 +99,7 @@ VS卡刷写黑加布兽接收成功</div>
 </blockquote>
 <blockquote>
 <b>bin文件数据校验值</b><br />
-<div  align="center"><img  class="pict" hspace="5" alt="dim img" border="0" width="950" src="https://livedoor.blogimg.jp/ruimusume/imgs/1/1/112f9473.png"></div>
+<div  align="center"><img class="pict" hspace="5" alt="dim img" border="0" width="950" src="https://livedoor.blogimg.jp/ruimusume/imgs/e/8/e85588a9.jpg"></div>
 <br />
 文件: VOLCANIC BEAT.bin<br />
 大小: 4194304 字节<br />
