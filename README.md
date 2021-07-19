@@ -69,10 +69,10 @@ VS卡刷写黑加布兽接收成功</div>
   <table  align="center">
 <tr>
         <td  style="text-align: center"><a  href="https://github.com/Ruimusume/DiM_CARD/releases/download/2.1.0.13/VS.MEMORY.zip" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/a/da32a79e.png" width="150" title="VS MEMORY" alt="VS MEMORY"></a><br />（免费提供点击下载）</td>
-        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/c/f/cf539c58.png" width="150" title="IMPULSE CITY" alt="IMPULSE CITY"><br />（10元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/c/f/cf539c58.png" width="150" title="IMPULSE CITY" alt="IMPULSE CITY"><br />（30元）</td>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/a/4/a4564c9e.png" width="150" title="ANCIENT WARRIORS" alt="ANCIENT WARRIORS"><br />（50元）</td>
-        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/9/7/973b32d8.png" width="150" title="BLACK ROAR" alt="BLACK ROAR"><br />（50元）</td>
-        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/7/8/785d70fb.png" width="150" title="SHADOW HOWL" alt="SHADOW HOWL"><br />（100元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/9/7/973b32d8.png" width="150" title="BLACK ROAR" alt="BLACK ROAR"><br />（100元）</td>
+        <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/7/8/785d70fb.png" width="150" title="SHADOW HOWL" alt="SHADOW HOWL"><br />（200元）</td>
       </tr>
       <tr>
         <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/8/f/8f6ac507.png" width="150" alt="AGUMON" title="AGUMON"><br />（30元）</td>
