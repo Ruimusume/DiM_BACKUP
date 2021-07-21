@@ -5,7 +5,8 @@
 
 数码兽 生命手环作弊快速培养进化攻略 https://github.com/Ruimusume/DiM_CARD/wiki
 
-DiM bin图形素材导出（DiM CARD bin Sprite Dump） https://github.com/Ruimusume/DiM_CARD/wiki/DiM-bin%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6%9D%90%E5%AF%BC%E5%87%BA
+DiM bin图形素材导出（DiM CARD bin Sprite Dump）<br />
+https://github.com/Ruimusume/DiM_CARD/wiki/DiM-bin%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6%9D%90%E5%AF%BC%E5%87%BA
 
 bin数据购买支付方式 https://ruisan.blog.jp/archives/9756028.html
 
