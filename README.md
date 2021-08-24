@@ -100,9 +100,9 @@ VS卡刷写黑加布兽接收成功</div>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/31b22e08.png" width="150" alt="TITAN OF DUST" title="TITAN OF DUST"><br />
         （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/2/2/2223f7e3.png" alt="HERMI IN THE JUNGLE" title="HERMI IN THE JUNGLE" width="150"><br />
-        （未出）</td>
+        （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/9/9/99e6b667.png" alt="NU METAL EMPIRE" title="NU METAL EMPIRE" width="150"><br />
-        （未出）</td>
+        （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/d/1/d16f3201.png" width="150" alt="GUILMON（GP vol.01）" title="GUILMON（GP vol.01）"><br />
         （未出）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/6/0/60ffe97f.png" width="150" alt="IMPMON（GP vol.01）" title="IMPMON（GP vol.01）"><br />
@@ -214,4 +214,16 @@ CRC32: 8D37CD6F<br />
 MD5: 213ECB8BAE3C9BB678CCB411ED2E1A33<br />
 SHA1: 2831E257AFE4CE52E366D14318C9DBBC7A22EFD5<br />
 CRC32: 456ED985<br />
+<br />
+文件: HERMI IN THE JUNGLE.bin<br />
+大小: 4194304 字节<br />
+MD5: 36EC159A795F029B6ADB752D58634781<br />
+SHA1: 8C9181DDF7A0E01F2A6F5D82BDD995862F124093<br />
+CRC32: 35BE383C<br />
+<br />
+文件:NU METAL EMPIRE.bin<br />
+大小: 4194304 字节<br />
+MD5: 1385BB26D31B774EC828C0C707A8A21B<br />
+SHA1: 3B438CC82A6AA27F94DD841BA6B78097B6A2B810<br />
+CRC32: FC1EDFE3<br />
 </blockquote>
