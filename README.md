@@ -146,7 +146,7 @@ VS卡刷写黑加布兽接收成功</div>
 
 </blockquote>
 <b>bin check code</b><br />
-<div  align="center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/8/e85588a9.jpg" width="950" border="0" alt="dim img" hspace="5" class="pict"></div>
+<div  align="center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/b/3b9b5cfb.png" border="0" alt="dim img" hspace="5" class="pict"></div>
 <br />
 File: VOLCANIC BEAT.bin<br />
 Size: 4194304 bytes<br />
