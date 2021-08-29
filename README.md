@@ -94,11 +94,11 @@ VS卡刷写黑加布兽接收成功</div>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/e/1/e1d41189.png" width="150" alt="BLIZZARD FANG" title="BLIZZARD FANG"><br />
         （30元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/f/2/f2f41560.png" width="150" alt="INFINITE TIDE" title="INFINITE TIDE"><br />
-        （50元）</td>
+        （30元）</td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/31b22e08.png" width="150" alt="TITAN OF DUST" title="TITAN OF DUST"><br />
-        （50元）</td>
+        （30元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/2/2/2223f7e3.png" alt="HERMI IN THE JUNGLE" title="HERMI IN THE JUNGLE" width="150"><br />
         （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/9/9/99e6b667.png" alt="NU METAL EMPIRE" title="NU METAL EMPIRE" width="150"><br />
