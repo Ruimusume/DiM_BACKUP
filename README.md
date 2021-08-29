@@ -87,7 +87,7 @@ VS卡刷写黑加布兽接收成功</div>
     <tr>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/8/f/8f6ac507.png" width="150" alt="AGUMON" title="AGUMON"><br />
         （30元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b0199679.png" width="150" alt="GABOMON" title="GABOMON"><br />
+      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b0199679.png" width="150" alt="GABUMON" title="GABOMON"><br />
         （30元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/0/1/01d0609d.png" width="150" alt="VOLCANIC BEAT" title="VOLCANIC BEAT"><br />
         （30元）</td>
@@ -184,7 +184,7 @@ MD5: BF530CBCB26460E18FB6DB247719EF1B<br />
 SHA1: 83C06B28F197301DBDB2A34127062A8BBABC629A<br />
 CRC32: 711F3854<br />
 <br />
-File: GABOMON.bin<br />
+File: GABUMON.bin<br />
 Size: 4194304 bytes<br />
 MD5: 73A18AE4450B2C1F4E4FF3F6369321DB<br />
 SHA1: 10BA0B04998F66FA62F2DCF2DA33D83CCBC94352<br />
