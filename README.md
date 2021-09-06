@@ -104,15 +104,15 @@ VS卡刷写黑加布兽接收成功</div>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/9/9/99e6b667.png" alt="NU METAL EMPIRE" title="NU METAL EMPIRE" width="150"><br />
         （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/d/1/d16f3201.png" width="150" alt="GUILMON（GP vol.01）" title="GUILMON（GP vol.01）"><br />
-        （100元）</td>
+        （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/6/0/60ffe97f.png" width="150" alt="IMPMON（GP vol.01）" title="IMPMON（GP vol.01）"><br />
-        （100元）</td>
+        （50元）</td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/e/4/e4777d8a.png" width="150" alt="RENAMON（GP vol.01）" title="RENAMON（GP vol.01）"><br />
-        （100元）</td>
+        （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/4/c/4ca49ba6.png" width="150" alt="MONODRAMON（GP vol.01）" title="MONODRAMON（GP vol.01）"><br />
-        （100元）</td>
+        （50元）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/8/6/869c8f89.png" width="150" alt="MEDAROT × DIGITALMONSTER" title="MEDAROT × DIGITALMONSTER"><br />
         （未出）</td>
       <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d6bef73.png" width="150" alt="MAD BALCK ROAR" title="MAD BALCK ROAR"><br />
