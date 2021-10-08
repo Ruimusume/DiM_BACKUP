@@ -129,7 +129,8 @@ VS卡刷写黑加布兽接收成功</div>
         （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/a/3af7425c.png" alt="JELLYMON" title="JELLYMON" width="150"><br />
         （未出）</td>
-      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/5/35e03ee4.png" alt="GUILMON" title="GUILMON" width="150"><br />        （未出）</td>
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/5/35e03ee4.png" alt="GUILMON" title="GUILMON" width="150"><br />
+        （未出）</td>
     </tr>
     <tr>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b019bb35.png" width="150" alt="TERRIERMON" title="TERRIERMON"><br />
@@ -140,8 +141,8 @@ VS卡刷写黑加布兽接收成功</div>
       <td  style="text-align: center"><br /></td>
 <td  style="text-align: center"><br /></td>
     </tr>
-  
-</tbody></table>
+</tbody>
+</table>
 
 
 </blockquote>
