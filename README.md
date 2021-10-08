@@ -71,8 +71,8 @@ VS卡刷写黑加布兽接收成功</div>
   <b>数据bin为收费向</b><br />
 
 <table  align="center">
-  <tbody>
-    <tr>
+  
+    <tbody><tr>
       <td  style="text-align: center"><a  href="https://github.com/Ruimusume/DiM_CARD/releases/download/2.1.0.13/VS.MEMORY.zip" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/a/da32a79e.png" width="150" title="VS MEMORY" alt="VS MEMORY"></a><br />
         （免费提供点击下载）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/c/f/cf539c58.png" width="150" title="IMPULSE CITY" alt="IMPULSE CITY"><br />
@@ -113,7 +113,7 @@ VS卡刷写黑加布兽接收成功</div>
         （50元）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/c/4ca49ba6.png" width="150" alt="MONODRAMON（GP vol.01）" title="MONODRAMON（GP vol.01）"><br />
         （50元）</td>
-      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/4/d4258638.png" width="150" alt="DYNASTY OF THE EVIL" title="DYNASTY OF THE EVIL"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/0/d/0d3fedd1.png" width="150" alt="DYNASTY OF THE EVIL" title="DYNASTY OF THE EVIL"><br />
         （50元）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/8/6/869c8f89.png" width="150" alt="MEDAROT × DIGITALMONSTER" title="MEDAROT × DIGITALMONSTER"><br />
         （未出）</td>
@@ -123,27 +123,25 @@ VS卡刷写黑加布兽接收成功</div>
     <tr>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/a/eac24082.png" width="150" alt="TRUE SHADOW HOWL" title="TRUE SHADOW HOWL"><br />
         （未出）</td>
-      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/0/d/0d3fedd1.png" width="150" alt="DYNASTY OF THE EVIL" title="DYNASTY OF THE EVIL"><br />
-        （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/9/39aedf05.png" width="150" alt="GAMMAMON" title="GAMMAMON"><br />
         （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/0/403ead4a.png" width="150" alt="ANGORAMON" title="ANGORAMON"><br />
         （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/a/3af7425c.png" alt="JELLYMON" title="JELLYMON" width="150"><br />
         （未出）</td>
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/5/35e03ee4.png" alt="GUILMON" title="GUILMON" width="150"><br />        （未出）</td>
     </tr>
     <tr>
-      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/5/35e03ee4.png" alt="GUILMON" title="GUILMON" width="150"><br />
-        （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b019bb35.png" width="150" alt="TERRIERMON" title="TERRIERMON"><br />
         （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/0/40b6b2f4.png" width="150" alt="RENAMON" title="RENAMON"><br />
         （未出）</td>
       <td  style="text-align: center"><br /></td>
       <td  style="text-align: center"><br /></td>
+<td  style="text-align: center"><br /></td>
     </tr>
-  </tbody>
-</table>
+  
+</tbody></table>
 
 
 </blockquote>
