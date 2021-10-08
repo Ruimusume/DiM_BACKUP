@@ -71,7 +71,6 @@ VS卡刷写黑加布兽接收成功</div>
   <b>数据bin为收费向</b><br />
 
 <table  align="center">
-  
     <tbody><tr>
       <td  style="text-align: center"><a  href="https://github.com/Ruimusume/DiM_CARD/releases/download/2.1.0.13/VS.MEMORY.zip" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/a/da32a79e.png" width="150" title="VS MEMORY" alt="VS MEMORY"></a><br />
         （免费提供点击下载）</td>
