@@ -70,79 +70,81 @@ VS卡刷写黑加布兽接收成功</div>
 <blockquote>
   <b>数据bin为收费向</b><br />
 
-<table align="center">
+<table  align="center">
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="https://github.com/Ruimusume/DiM_CARD/releases/download/2.1.0.13/VS.MEMORY.zip" target="_blank"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/d/a/da32a79e.png" width="150" title="VS MEMORY" alt="VS MEMORY"></a><br />
+      <td  style="text-align: center"><a  href="https://github.com/Ruimusume/DiM_CARD/releases/download/2.1.0.13/VS.MEMORY.zip" target="_blank"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/a/da32a79e.png" width="150" title="VS MEMORY" alt="VS MEMORY"></a><br />
         （免费提供点击下载）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/c/f/cf539c58.png" width="150" title="IMPULSE CITY" alt="IMPULSE CITY"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/c/f/cf539c58.png" width="150" title="IMPULSE CITY" alt="IMPULSE CITY"><br />
         （30元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/a/4/a4564c9e.png" width="150" title="ANCIENT WARRIORS" alt="ANCIENT WARRIORS"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/a/4/a4564c9e.png" width="150" title="ANCIENT WARRIORS" alt="ANCIENT WARRIORS"><br />
         （100元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/9/7/973b32d8.png" width="150" title="BLACK ROAR" alt="BLACK ROAR"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/9/7/973b32d8.png" width="150" title="BLACK ROAR" alt="BLACK ROAR"><br />
         （100元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/7/8/785d70fb.png" width="150" title="SHADOW HOWL" alt="SHADOW HOWL"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/7/8/785d70fb.png" width="150" title="SHADOW HOWL" alt="SHADOW HOWL"><br />
         （200元）</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/8/f/8f6ac507.png" width="150" alt="AGUMON" title="AGUMON"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/8/f/8f6ac507.png" width="150" alt="AGUMON" title="AGUMON"><br />
         （30元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b0199679.png" width="150" alt="GABUMON" title="GABOMON"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b0199679.png" width="150" alt="GABUMON" title="GABOMON"><br />
         （30元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/0/1/01d0609d.png" width="150" alt="VOLCANIC BEAT" title="VOLCANIC BEAT"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/0/1/01d0609d.png" width="150" alt="VOLCANIC BEAT" title="VOLCANIC BEAT"><br />
         （30元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/e/1/e1d41189.png" width="150" alt="BLIZZARD FANG" title="BLIZZARD FANG"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/1/e1d41189.png" width="150" alt="BLIZZARD FANG" title="BLIZZARD FANG"><br />
         （30元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/f/2/f2f41560.png" width="150" alt="INFINITE TIDE" title="INFINITE TIDE"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/f/2/f2f41560.png" width="150" alt="INFINITE TIDE" title="INFINITE TIDE"><br />
         （30元）</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/31b22e08.png" width="150" alt="TITAN OF DUST" title="TITAN OF DUST"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/31b22e08.png" width="150" alt="TITAN OF DUST" title="TITAN OF DUST"><br />
         （30元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/2/2/2223f7e3.png" alt="HERMI IN THE JUNGLE" title="HERMI IN THE JUNGLE" width="150"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/2/2/2223f7e3.png" alt="HERMI IN THE JUNGLE" title="HERMI IN THE JUNGLE" width="150"><br />
+        （30元）</td>
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/9/9/99e6b667.png" alt="NU METAL EMPIRE" title="NU METAL EMPIRE" width="150"><br />
+        （30元）</td>
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/1/d16f3201.png" width="150" alt="GUILMON（GP vol.01）" title="GUILMON（GP vol.01）"><br />
         （50元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/9/9/99e6b667.png" alt="NU METAL EMPIRE" title="NU METAL EMPIRE" width="150"><br />
-        （50元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/d/1/d16f3201.png" width="150" alt="GUILMON（GP vol.01）" title="GUILMON（GP vol.01）"><br />
-        （50元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/6/0/60ffe97f.png" width="150" alt="IMPMON（GP vol.01）" title="IMPMON（GP vol.01）"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/6/0/60ffe97f.png" width="150" alt="IMPMON（GP vol.01）" title="IMPMON（GP vol.01）"><br />
         （50元）</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/e/4/e4777d8a.png" width="150" alt="RENAMON（GP vol.01）" title="RENAMON（GP vol.01）"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/4/e4777d8a.png" width="150" alt="RENAMON（GP vol.01）" title="RENAMON（GP vol.01）"><br />
         （50元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/4/c/4ca49ba6.png" width="150" alt="MONODRAMON（GP vol.01）" title="MONODRAMON（GP vol.01）"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/c/4ca49ba6.png" width="150" alt="MONODRAMON（GP vol.01）" title="MONODRAMON（GP vol.01）"><br />
         （50元）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/8/6/869c8f89.png" width="150" alt="MEDAROT × DIGITALMONSTER" title="MEDAROT × DIGITALMONSTER"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/4/d4258638.png" width="150" alt="DYNASTY OF THE EVIL" title="DYNASTY OF THE EVIL"><br />
+        （50元）</td>
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/8/6/869c8f89.png" width="150" alt="MEDAROT × DIGITALMONSTER" title="MEDAROT × DIGITALMONSTER"><br />
         （未出）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d6bef73.png" width="150" alt="MAD BALCK ROAR" title="MAD BALCK ROAR"><br />
-        （未出）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/e/a/eac24082.png" width="150" alt="TRUE SHADOW HOWL" title="TRUE SHADOW HOWL"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d6bef73.png" width="150" alt="MAD BALCK ROAR" title="MAD BALCK ROAR"><br />
         （未出）</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/0/d/0d3fedd1.png" width="150" alt="DYNASTY OF THE EVIL" title="DYNASTY OF THE EVIL"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/a/eac24082.png" width="150" alt="TRUE SHADOW HOWL" title="TRUE SHADOW HOWL"><br />
         （未出）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/9/39aedf05.png" width="150" alt="GAMMAMON" title="GAMMAMON"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/0/d/0d3fedd1.png" width="150" alt="DYNASTY OF THE EVIL" title="DYNASTY OF THE EVIL"><br />
         （未出）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/4/0/403ead4a.png" width="150" alt="ANGORAMON" title="ANGORAMON"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/9/39aedf05.png" width="150" alt="GAMMAMON" title="GAMMAMON"><br />
         （未出）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/a/3af7425c.png" alt="JELLYMON" title="JELLYMON" width="150"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/0/403ead4a.png" width="150" alt="ANGORAMON" title="ANGORAMON"><br />
         （未出）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/5/35e03ee4.png" alt="GUILMON" title="GUILMON" width="150"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/a/3af7425c.png" alt="JELLYMON" title="JELLYMON" width="150"><br />
         （未出）</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b019bb35.png" width="150" alt="TERRIERMON" title="TERRIERMON"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/5/35e03ee4.png" alt="GUILMON" title="GUILMON" width="150"><br />
         （未出）</td>
-      <td style="text-align: center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/4/0/40b6b2f4.png" width="150" alt="RENAMON" title="RENAMON"><br />
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/b/0/b019bb35.png" width="150" alt="TERRIERMON" title="TERRIERMON"><br />
         （未出）</td>
-      <td style="text-align: center"><br /></td>
-      <td style="text-align: center"><br /></td>
-      <td style="text-align: center"><br /></td>
+      <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/0/40b6b2f4.png" width="150" alt="RENAMON" title="RENAMON"><br />
+        （未出）</td>
+      <td  style="text-align: center"><br /></td>
+      <td  style="text-align: center"><br /></td>
     </tr>
   </tbody>
 </table>
+
 
 </blockquote>
 <b>bin check code</b><br />
