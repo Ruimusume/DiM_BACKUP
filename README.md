@@ -117,11 +117,11 @@ VS卡刷写黑加布兽接收成功</div>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/8/6/869c8f89.png" width="150" alt="MEDAROT × DIGITALMONSTER" title="MEDAROT × DIGITALMONSTER"><br />
         （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d6bef73.png" width="150" alt="MAD BALCK ROAR" title="MAD BALCK ROAR"><br />
-        （未出）</td>
+        （50元）</td>
     </tr>
     <tr>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/a/eac24082.png" width="150" alt="TRUE SHADOW HOWL" title="TRUE SHADOW HOWL"><br />
-        （未出）</td>
+        （50元）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/9/39aedf05.png" width="150" alt="GAMMAMON" title="GAMMAMON"><br />
         （未出）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/4/0/403ead4a.png" width="150" alt="ANGORAMON" title="ANGORAMON"><br />
