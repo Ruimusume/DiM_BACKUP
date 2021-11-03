@@ -115,7 +115,7 @@ VS卡刷写黑加布兽接收成功</div>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/0/d/0d3fedd1.png" width="150" alt="DYNASTY OF THE EVIL" title="DYNASTY OF THE EVIL"><br />
         （50元）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/8/6/869c8f89.png" width="150" alt="MEDAROT × DIGITALMONSTER" title="MEDAROT × DIGITALMONSTER"><br />
-        （未出）</td>
+        （50元）</td>
       <td  style="text-align: center"><img  src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d6bef73.png" width="150" alt="MAD BALCK ROAR" title="MAD BALCK ROAR"><br />
         （50元）</td>
     </tr>
@@ -267,4 +267,10 @@ Size: 4194304 bytes<br />
 MD5: 9997A74F29130D7C729C29721A8FB0D0<br />
 SHA1: 65A26BD3942552AF7D01BC0B06E3877ED26C5238<br />
 CRC32: 0A0BF9A7<br />
+<br />
+File: MEDAROT × DIGITALMONSTER.bin<br />
+Size: 4194304 bytes<br />
+MD5: 7D3E06C6E2DFA7A104AF5DB82A565F9D<br />
+SHA1: F2C264BDA360CB62BA6A3128B5DA78CABCAA1433<br />
+CRC32: 9D8A63FC<br />
 </blockquote>
