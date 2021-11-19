@@ -11,7 +11,7 @@ https://github.com/Ruimusume/DiM_CARD/wiki/DiM-bin%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6
 教学原帖 https://ruisan.blog.jp/archives/9756028.html
 
 <div  align="center">
-<img  src="https://livedoor.blogimg.jp/ruimusume/imgs/d/d/dd5f25cc.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
+<img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/2/e2a2a32c.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
 </div>
 <blockquote> <b>CH341A编程器接线示意图方案</b><br />
   点击图片可以查看大图<br />
