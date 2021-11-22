@@ -9,11 +9,11 @@ DiM bin图形素材导出（DiM CARD bin Sprite Dump）<br />
 https://github.com/Ruimusume/DiM_CARD/wiki/DiM-bin%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6%9D%90%E5%AF%BC%E5%87%BA
 
 ### 秒杀战斗数据制作教程（Instakill VS MOD）：<br />
-1.使用VS卡读取数码兽到卡里<br />
-2.用AsProgrammer读取VS卡的数据<br />
-3.然后保存命名为VS.bin<br />
-4.把VS.bin和VS_MOD_TOOL_(BETA).exe放在一个文件夹，然后运行VS_MOD_TOOL_(BETA).exe<br />
-5.生成的VS_MOD.bin就可以无限使用并且是秒杀直接胜利<br />
+1.使用VS卡读取数码兽到卡里;<br />
+2.用AsProgrammer读取VS卡的数据;<br />
+3.然后保存命名为VS.bin;<br />
+4.把VS.bin和VS_MOD_TOOL_(BETA).exe放在一个文件夹，然后运行VS_MOD_TOOL_(BETA).exe;<br />
+5.生成的VS_MOD.bin就可以无限使用并且是秒杀直接胜利;<br />
 <hr>
 教学原帖 https://ruisan.blog.jp/archives/9756028.html
 
