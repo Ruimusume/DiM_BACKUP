@@ -12,7 +12,7 @@ https://github.com/Ruimusume/DiM_CARD/wiki/DiM-bin%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6
 1.使用VS卡读取数码兽到卡里;<br />
 2.用AsProgrammer读取VS卡的数据;<br />
 3.然后保存命名为VS.bin;<br />
-4.把VS.bin和VS_MOD_TOOL_(BETA).exe放在一个文件夹，然后运行VS_MOD_TOOL_(BETA).exe;<br />
+4.把VS.bin放入VS_MOD_TOOL_(BETA)文件夹里，然后运行VS_MOD_TOOL_(BETA).exe;<br />
 5.生成的VS_MOD.bin就可以无限使用并且是秒杀直接胜利;<br />
 ※秒杀文件用于快速获得活力值和刷胜利次数用，可直接用究极体制作<br />
 <hr>
