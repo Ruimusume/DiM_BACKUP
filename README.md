@@ -1,7 +1,7 @@
 # DiM_CARD
 DiM CARD Flash
 
-[DIGIMON VITAL BRACELET]CH341A编程器 Dump&刷写&初始化 DiM Card 数据教学
+CH341A编程器 Dump&刷写&初始化 DiM Card 数据教学
 
 数码兽 生命手环作弊快速培养进化攻略 https://github.com/Ruimusume/DiM_CARD/wiki
 
