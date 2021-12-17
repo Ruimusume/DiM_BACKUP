@@ -1,5 +1,5 @@
 # DiM_CARD
-DiM CARD Flash
+DiM CARD BACKUP
 
 CH341A编程器 Dump&刷写&初始化 DiM Card 数据教学
 
