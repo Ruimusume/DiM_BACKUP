@@ -6,7 +6,7 @@ CH341A编程器 Dump&刷写&初始化 DiM Card 数据教学
 数码兽 生命手环作弊快速培养进化攻略 https://github.com/Ruimusume/DiM_CARD/wiki
 
 DiM图形素材导出（DiM CARD bin Sprite Dump）<br />
-https://github.com/Ruimusume/DiM_CARD/wiki/DiM-bin%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6%9D%90%E5%AF%BC%E5%87%BA
+https://github.com/Ruimusume/DiM_BACKUP/wiki/DiM%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6%9D%90%E5%AF%BC%E5%87%BA
 
 ### 秒杀战斗数据制作教程（Instakill VS MOD）：<br />
 1.使用VS卡读取数码兽到卡里;<br />
