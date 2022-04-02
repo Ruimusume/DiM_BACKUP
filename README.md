@@ -18,8 +18,6 @@ https://github.com/Ruimusume/DiM_BACKUP/wiki/DiM%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6%9
 <hr>
 教学原帖 https://ruisan.blog.jp/archives/9756028.html<br />
 <br />
-购买数据/Purchase data https://ruisan.blog.jp/b.html<br />
-<br />
 <div align="center">
 <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/2/e2a2a32c.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
 </div>
