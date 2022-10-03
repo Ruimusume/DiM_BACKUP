@@ -15,6 +15,9 @@ https://github.com/Ruimusume/DiM_BACKUP/wiki/DiM%E5%9B%BE%E5%BD%A2%E7%B4%A0%E6%9
 4.把VS.bin放入VS_MOD_TOOL_(BETA)文件夹里，然后运行VS_MOD_TOOL_(BETA).exe;<br />
 5.生成的VS_MOD.bin就可以无限使用并且是秒杀直接胜利;<br />
 ※秒杀文件用于快速获得活力值和刷胜利次数用，可直接用究极体制作<br />
+
+### DIM数据获取页
+https://ruisan.blog.jp/b.html
 <hr>
 教学原帖 https://ruisan.blog.jp/archives/9756028.html<br />
 <br />
