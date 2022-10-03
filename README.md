@@ -24,6 +24,7 @@ https://ruisan.blog.jp/b.html
 <div align="center">
 <img  src="https://livedoor.blogimg.jp/ruimusume/imgs/c/c/cc147f71.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
 </div>
+
 <blockquote> <b>CH341A编程器接线示意图方案</b><br />
   点击图片可以查看大图<br />
   microDS读卡器是可以用工具从插入卡的地方放撬开的，外壳都是有卡扣扣住的可以在合回去不会松<br />
