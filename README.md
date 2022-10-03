@@ -22,7 +22,7 @@ https://ruisan.blog.jp/b.html
 教学原帖 https://ruisan.blog.jp/archives/9756028.html<br />
 <br />
 <div align="center">
-<img  src="https://livedoor.blogimg.jp/ruimusume/imgs/e/2/e2a2a32c.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
+<img  src="https://livedoor.blogimg.jp/ruimusume/imgs/c/c/cc147f71.jpg" width="1000" border="0" alt="DIGIMON VITAL BRACELET" hspace="5" class="pict">
 </div>
 <blockquote> <b>CH341A编程器接线示意图方案</b><br />
   点击图片可以查看大图<br />
