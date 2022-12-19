@@ -1,4 +1,6 @@
 # DiM_BACKUP
+![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/DiM_BACKUP/total.svg)
+
 DiM CARD BACKUP
 
 CH341A编程器 Dump&刷写&初始化 DiM Card 数据教学
